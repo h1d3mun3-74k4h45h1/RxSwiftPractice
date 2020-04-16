@@ -78,6 +78,7 @@
 		9865C9CF24484ED900253227 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
 		9865C9D024484ED900253227 /* RxCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxCocoa.framework; path = Carthage/Build/iOS/RxCocoa.framework; sourceTree = "<group>"; };
 		9865C9D124484ED900253227 /* RxRelay.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxRelay.framework; path = Carthage/Build/iOS/RxRelay.framework; sourceTree = "<group>"; };
+		9865C9DC2448548100253227 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +112,7 @@
 		9865C98E24484D8500253227 = {
 			isa = PBXGroup;
 			children = (
+				9865C9DC2448548100253227 /* README.md */,
 				9865C99924484D8500253227 /* RxSwiftPractice */,
 				9865C9B024484D8700253227 /* RxSwiftPracticeTests */,
 				9865C9BB24484D8700253227 /* RxSwiftPracticeUITests */,
